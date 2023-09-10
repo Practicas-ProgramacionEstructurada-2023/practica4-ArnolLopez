@@ -1,0 +1,15 @@
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\bin\Debug\net7.0\practica4-ArnolLopez.exe
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\bin\Debug\net7.0\practica4-ArnolLopez.deps.json
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\bin\Debug\net7.0\practica4-ArnolLopez.runtimeconfig.json
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\bin\Debug\net7.0\practica4-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\bin\Debug\net7.0\practica4-ArnolLopez.pdb
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.csproj.AssemblyReference.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.AssemblyInfoInputs.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.AssemblyInfo.cs
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.csproj.CoreCompileInputs.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\refint\practica4-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.pdb
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\practica4-ArnolLopez.genruntimeconfig.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\GUIA 1 PESUIDO CODE\practica4-ArnolLopez\obj\Debug\net7.0\ref\practica4-ArnolLopez.dll
